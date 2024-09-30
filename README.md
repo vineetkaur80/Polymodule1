@@ -1,7 +1,7 @@
 # ERC20 Sepolia to Amoy Bridge via fxPortal
 This project showcases how to utilize the fxPortal contracts to enable the seamless transfer of ERC20 tokens from the Sepolia Ethereum testnet to the Amoy Ethereum Polygon network.
 
-#### ** Sorry for the video i had changed the name of the contract as of my name vineet and this repo i had created earlier with the name as chewingGum.**
+#### " Sorry for the video i had changed the name of the contract as of my name vineet and this repo i had created earlier with the name as chewingGum."
 ### Bridging Process
 Follow these steps to successfully bridge ERC20 tokens from Sepolia to Amoy:
 
